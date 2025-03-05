@@ -1,0 +1,13 @@
+{
+  "name": "SOLANA cNFT COLLECTION",
+  "image": "https://amaranth-recent-rooster-761.mypinata.cloud/ipfs/QmTRBkF4kNJMEbnuHrJAfuFMYj8HBx5uAePJ7GD9EmPKja",
+  "externalUrl": "https://www.example.com",
+  "properties": {
+    "files": [
+      {
+        "uri": "https://amaranth-recent-rooster-761.mypinata.cloud/ipfs/QmTRBkF4kNJMEbnuHrJAfuFMYj8HBx5uAePJ7GD9EmPKja",
+        "type": "image/png"
+      }
+    ]
+  }
+}

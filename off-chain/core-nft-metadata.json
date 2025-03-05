@@ -1,0 +1,30 @@
+{
+  "name": "SOLANA GENERATIVE ART",
+  "description": "Generative art on Solana.",
+  "image": "https://amaranth-recent-rooster-761.mypinata.cloud/ipfs/QmTRBkF4kNJMEbnuHrJAfuFMYj8HBx5uAePJ7GD9EmPKja",
+  "external_url": "https://example.com",
+  "attributes": [
+    {
+      "trait_type": "trait1",
+      "value": "value1"
+    },
+    {
+      "trait_type": "trait2",
+      "value": "value2"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://amaranth-recent-rooster-761.mypinata.cloud/ipfs/QmTRBkF4kNJMEbnuHrJAfuFMYj8HBx5uAePJ7GD9EmPKja",
+        "type": "image/png"
+      },
+      {
+        "uri": "https://watch.videodelivery.net/9876jkl",
+        "type": "unknown",
+        "cdn": true
+      }
+    ],
+    "category": "image"
+  }
+}
