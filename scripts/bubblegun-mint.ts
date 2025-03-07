@@ -13,7 +13,7 @@ import { OWNER_PRIVATE_KEY } from '../constants/account.const';
 import { AURA, COLLECTION_METADATA_URL, METADATA_URI } from '../constants/common.const';
 
 const main = async () => {
-  const umi = createUmi('https://api.devnet.solana.com').use(mplBubblegum()).use(mplTokenMetadata());
+  const umi = createUmi(AURA).use(mplBubblegum()).use(mplTokenMetadata());
 
   const keypair = umi.eddsa.createKeypairFromSecretKey(bs58.decode(OWNER_PRIVATE_KEY));
   const owner = createSignerFromKeypair(umi, keypair);
